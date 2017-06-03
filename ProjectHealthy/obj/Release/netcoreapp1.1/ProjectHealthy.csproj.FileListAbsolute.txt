@@ -1,0 +1,10 @@
+c:\users\gangr\documents\visual studio 2017\Projects\ProjectHealthy\ProjectHealthy\bin\Release\netcoreapp1.1\ProjectHealthy.deps.json
+c:\users\gangr\documents\visual studio 2017\Projects\ProjectHealthy\ProjectHealthy\bin\Release\netcoreapp1.1\ProjectHealthy.runtimeconfig.json
+c:\users\gangr\documents\visual studio 2017\Projects\ProjectHealthy\ProjectHealthy\bin\Release\netcoreapp1.1\ProjectHealthy.runtimeconfig.dev.json
+c:\users\gangr\documents\visual studio 2017\Projects\ProjectHealthy\ProjectHealthy\bin\Release\netcoreapp1.1\ProjectHealthy.dll
+c:\users\gangr\documents\visual studio 2017\Projects\ProjectHealthy\ProjectHealthy\bin\Release\netcoreapp1.1\ProjectHealthy.pdb
+c:\users\gangr\documents\visual studio 2017\Projects\ProjectHealthy\ProjectHealthy\obj\Release\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\gangr\documents\visual studio 2017\Projects\ProjectHealthy\ProjectHealthy\obj\Release\netcoreapp1.1\ProjectHealthy.AssemblyInfo.cs
+c:\users\gangr\documents\visual studio 2017\Projects\ProjectHealthy\ProjectHealthy\obj\Release\netcoreapp1.1\ProjectHealthy.dll
+c:\users\gangr\documents\visual studio 2017\Projects\ProjectHealthy\ProjectHealthy\obj\Release\netcoreapp1.1\ProjectHealthy.pdb
+c:\users\gangr\documents\visual studio 2017\Projects\ProjectHealthy\ProjectHealthy\obj\Release\netcoreapp1.1\ProjectHealthy.csprojResolveAssemblyReference.cache
